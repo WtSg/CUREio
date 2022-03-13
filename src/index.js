@@ -7,7 +7,7 @@ var videoContainer = document.getElementById("video-compare-container"),
 videoClipper = document.getElementById("video-clipper");
 clippedVideo = videoClipper.getElementsByTagName("video")[0];
 
-const FRAME_RATE = 25;
+const FRAME_RATE = 60;
 const ICON_REPLAY = "src/assets/icons/replay.svg";
 const ICON_PLAY = "src/assets/icons/play.svg";
 const ICON_PAUSE = "src/assets/icons/pause.svg";

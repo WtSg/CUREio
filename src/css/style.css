@@ -6,7 +6,7 @@
 .controls {
   background-color: rgba(255, 255, 255, 0.50);
   color: #eee;
-  position: absolute;
+  position:relative;
   left: 0;
   right: 0;
   bottom: 1em;
@@ -154,10 +154,4 @@
             width: 0px;
             height: 25px;
             border-right: 2px solid blue;
-}
-#showProgress{
-            background-color: ;
-            font-weight: 600;
-            font-size: 20px;
-            line-height: 25px;
 }
